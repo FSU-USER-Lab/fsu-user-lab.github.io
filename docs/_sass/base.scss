@@ -1,18 +1,17 @@
 html {
-	background: rgb(120, 47, 64);
-	background: linear-gradient(90deg, rgba(120, 47, 64, 0.65) 0%, rgba(181, 181, 180, 0.65) 50%, rgba(206, 184, 136, 0.65) 100%);
+	background-color: #d5d4d4;
 }
 body {
-	background-color: transparent;
+	background-color: inherit;
 }
 header {
-	background-color: transparent;
+	background-color: inherit;
 }
 header a.button {
-	background-color: transparent;
+	background-color: inherit;
 }
 footer {
-	background-color: transparent;
+	background-color: inherit;
 }
 .container {
 	max-width: 1080px;
